@@ -1,0 +1,24 @@
+
+:root {
+
+  --app-height: 100vh;
+
+  --aside-width: 300px;
+  --aside-bg-color: #222;
+
+  --footer-height: 35px;
+  --footer-bg-color: #eee;
+
+  --shadow: 
+    0 2px 23px 0 rgba(0, 0);
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
